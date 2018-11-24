@@ -1,0 +1,9 @@
+databaseclass=sistemasjym.servicios.Conexion_mySQL
+jdbc=jdbc:mysql://
+driver=com.mysql.jdbc.Driver
+host=localhost
+database=madrugador
+username=root
+password=jean
+options=charSet=LATIN1
+mostrarpropierties=si
